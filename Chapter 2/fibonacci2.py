@@ -1,4 +1,5 @@
-fibonacci_list = [0,1]
+fibonacci_list = [0, 1]
+
 
 def fibonacci(n):
 
@@ -18,4 +19,3 @@ def fibonacci(n):
             fibonacci_list.append(b)
 
         return a + b
-

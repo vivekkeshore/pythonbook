@@ -9,5 +9,3 @@ def fibonacci(n):
         F1 = Fn
 
     return Fn
-
-        
